@@ -1,0 +1,71 @@
+
+h1{
+    font-family: georgia;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(54, 54, 153);
+}
+
+h4{
+        font-family: georgia;
+        font-size: 20px;
+        color: rgb(54, 54, 153);
+}
+
+table{
+        background-color: white;
+        table-layout: fixed;
+                                       
+}
+
+td, tr{
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    text-align: center;
+    color: blanchedalmond;
+             
+}
+
+.vazio{
+    border: none;
+}
+
+.azul{
+    background-color: rgb(43, 79, 238);
+    
+}
+
+.roxo{
+    background-color: rgb(112, 39, 180);
+    
+}
+
+.rosa{
+    background-color: rgb(226, 43, 177);
+}
+
+.laranja{
+    background-color: rgb(242, 24, 24);
+}
+
+.marrom{
+    background-color: rgb(115, 65, 65);
+}
+
+.verde{
+    background-color: rgb(76, 221, 73);
+    
+}
+
+.verdea{
+    background-color: rgb(152, 236, 208) ;
+}
+
+.Vinho {
+    background-color: rgb(143, 35, 80);
+}
+
+.laranjaq{
+    background-color: rgb(202, 28, 28);
+}
+
